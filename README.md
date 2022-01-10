@@ -1,4 +1,4 @@
-# Containerized Web Scraping Service Exposed Via API
+# Containerized Web Scraping Service Exposed Via API.
 
 Source: https://dev.to/googlecloud/using-headless-chrome-with-cloud-run-3fdp
 
